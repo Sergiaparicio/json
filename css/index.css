@@ -80,9 +80,18 @@
     border-radius: 30px;
     margin-top: 10px;
     padding: 20px;
+    display: flex;
+    flex-direction: column;
 }
 
-#imgmid{
-    
+.imgmid{
+    width: 240px;
+    height: 315px;
+    border-radius: 30px;
+}
+
+.textp{
+    display:flex;
+    flex-wrap: wrap;
 }
 
