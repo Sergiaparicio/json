@@ -1,0 +1,19 @@
+{
+    "peliculas":[
+        {
+            "id": 1,
+            "titulo": "UNCHARTED",
+            "clasificacion": "accion",
+        },
+        {
+            "id": 2,
+            "titulo": "BATAMAN",
+            "clasificacion": "accion",
+        },
+        {
+            "id": 3,
+            "titulo": "GHOSTBUSTERS",
+            "clasificacion": "comedia/fantasia",
+        },
+    ]
+}
