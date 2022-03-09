@@ -28,23 +28,20 @@
 }
 
 .boxicons{
-    width: 50%;
+    width: 100%;
     height: 100%;
     display: flex;
-    flex-direction: row;
-}
+    justify-content: flex-end;
+} 
 
-#icontopl{
-    
-}
-
-#icontopr{
-    display: flex;
-    justify-content: space-between;
-}
 
 #search{
-    margin-left: 350px;
+    margin-left:;
+}
+
+#menu{
+    margin-right: 100px;
+    margin-left: 400px;
 }
 
 #tb2{
@@ -58,8 +55,11 @@
 }
 
 #imgback{
-    width: auto;
-    height: 972px;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 180px;
+    left: 0;
     background-image: url(../img/wp4124575.jpg);
     background-size: cover;
     background-position: center;
@@ -87,6 +87,7 @@
 }
 
 #mid{
+    position: relative;
     width: 100%;
     height: 82.7%;
     display: flex;

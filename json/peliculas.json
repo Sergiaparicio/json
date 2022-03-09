@@ -4,16 +4,22 @@
             "id": 1,
             "titulo": "UNCHARTED",
             "clasificacion": "accion",
+            "texto": "lorem ipsum",
+            "click": "VER AHORA"
         },
         {
             "id": 2,
             "titulo": "BATAMAN",
             "clasificacion": "accion",
+            "texto": "lorem ipsum",
+            "click": "VER AHORA"
         },
         {
             "id": 3,
             "titulo": "GHOSTBUSTERS",
             "clasificacion": "comedia/fantasia",
-        },
+            "texto": "lorem ipsum",
+            "click": "VER AHORA"
+        }
     ]
 }
